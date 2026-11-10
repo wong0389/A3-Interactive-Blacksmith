@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 290" role="img" aria-labelledby="title">
+  <title id="title">Cold stone forge</title>
+  <rect width="420" height="290" fill="#dce4e0"/>
+  <path d="M72 244V116a138 138 0 0 1 276 0v128Z" fill="#69766f"/>
+  <path d="M116 244v-97a94 94 0 0 1 188 0v97Z" fill="#28332f"/>
+  <path d="M116 223h188v21H116Z" fill="#4c5a53"/>
+  <path d="m155 222 26-18 25 18 27-16 28 16" fill="none" stroke="#758078" stroke-width="8" stroke-linecap="round"/>
+  <path d="M60 252h300" stroke="#33423b" stroke-width="10" stroke-linecap="round"/>
+</svg>

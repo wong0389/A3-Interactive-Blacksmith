@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 290" role="img" aria-labelledby="title">
+  <title id="title">Forge with a small fire</title>
+  <rect width="420" height="290" fill="#dce4e0"/>
+  <path d="M72 244V116a138 138 0 0 1 276 0v128Z" fill="#69766f"/>
+  <path d="M116 244v-97a94 94 0 0 1 188 0v97Z" fill="#28332f"/>
+  <path d="M116 223h188v21H116Z" fill="#4c5a53"/>
+  <path d="M174 221c-9-24 13-34 11-56 17 10 23 23 20 34 8-7 11-14 10-25 23 22 22 34 12 47Z" fill="#f07835"/>
+  <path d="M191 221c-5-13 9-21 10-33 10 9 14 19 8 33Z" fill="#ffd16a"/>
+  <path d="M60 252h300" stroke="#33423b" stroke-width="10" stroke-linecap="round"/>
+</svg>
